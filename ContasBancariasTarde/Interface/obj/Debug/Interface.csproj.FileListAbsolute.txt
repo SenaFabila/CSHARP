@@ -1,0 +1,10 @@
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\bin\Debug\Interface.exe.config
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\bin\Debug\Interface.exe
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\bin\Debug\Interface.pdb
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.frmContasBancarias.resources
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.exe
+C:\Users\dennys.wsferreira\source\repos\ContasBancariasTarde\Interface\obj\Debug\Interface.pdb

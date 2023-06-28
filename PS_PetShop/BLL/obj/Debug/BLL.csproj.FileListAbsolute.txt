@@ -1,0 +1,9 @@
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\bin\Debug\BLL.dll
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\bin\Debug\BLL.pdb
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\obj\Debug\BLL.dll
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\obj\Debug\BLL.pdb
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\bin\Debug\Correios.dll
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\bin\Debug\Correios.pdb
+C:\Users\dennys.wsferreira\source\repos\PS_PetShop\BLL\obj\Debug\BLL.csproj.CopyComplete
